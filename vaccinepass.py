@@ -36,7 +36,7 @@ def decrypt_public_key(encrypted_msg, public_key):
 # These data is saved on the clients devices
 vaccdaten = {
     "datum": "18.05.2021",
-    "name": "Pascal Faude",
+    "name": "Max Mustermann",
     "vaccine": "BioNTech",
     "timestamp": time.time()
 }
